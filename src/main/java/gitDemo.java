@@ -1,6 +1,5 @@
 /**
  * @author  ouyang
- * @date 2023/12/1 - 14:48
  */
 public class gitDemo {
     public static void main(String[] args) {
@@ -10,5 +9,6 @@ public class gitDemo {
         System.out.println("hot-fix test!");
         System.out.println("first git-demo4");
         System.out.println("master test");
+        System.out.println("push test");
     }
 }
