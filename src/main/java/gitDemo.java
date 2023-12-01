@@ -10,5 +10,6 @@ public class gitDemo {
         System.out.println("hot-fix test!");
         System.out.println("first git-demo4");
         System.out.println("master test");
+        System.out.println("pull test");
     }
 }
