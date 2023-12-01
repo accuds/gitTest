@@ -7,6 +7,6 @@ public class gitDemo {
         System.out.println("first git-demo");
         System.out.println("first git-demo2");
         System.out.println("first git-demo3");
-        System.out.println("first git-demo4");
+        System.out.println("hot-fix test!");
     }
 }
